@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../emotion-detector/.idea/emotion-detector.iml" filepath="$PROJECT_DIR$/../emotion-detector/.idea/emotion-detector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project_ML_Mot_Mele.iml" filepath="$PROJECT_DIR$/.idea/project_ML_Mot_Mele.iml" />
+    </modules>
+  </component>
+</project>
